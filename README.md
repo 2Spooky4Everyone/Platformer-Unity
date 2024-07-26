@@ -1,4 +1,4 @@
-# PLatformer Unity
+# Platformer Unity
 A **Platformer** developed for a School Project <br />
 We do not own  the assets used in this project. 
 
